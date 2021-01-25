@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Ber**** Tel**",
+    "total": 80,
+    "description": "Haber filtreleme yaptıktan sonra geri dönerken eski liste yüklenmiyor. Uygulamanın ilk açılışında FirebaseAuth kontrolü yapılmamış. Haber detay ekranında appbar title boş onun yerine haber başlığınının olması gerekiyor"
+  },
+  {
+    "id": 12,
+    "name": "Bur** Akt**",
+    "total": 109,
+    "description": "Genel olarak uygulaman güzel olmuş"
+  },
+  {
+    "id": 23,
+    "name": "Bur** Çel**",
+    "total": 61,
+    "description": "Splash screen ve user kontrolü yapılmamış. Haber arama fonksiyonu çalışmıyor. Haber detayı webview widgetının içinde açılmıyor (appbar vs yok).  Geliştirici sayfası yok"
+  },
+  {
+    "id": 18,
+    "name": "C** G**",
+    "total": 70,
+    "description": "Register işlemi yapıldıktan sonra pushReplacement yapılmamış. Haber detayı webview widgetının içinde açılmıyor (appbar vs yok). Arama özelliği yok ve geliştirici hakkında kısmına kendi resimini eklememişsin."
+  },
+  {
+    "id": 30,
+    "name": "Dav** Ars***",
+    "total": 22,
+    "description": "Kullandığın api http bu yüzden AndroidManifest.xml dosyasında application'un altında android:usesCleartextTraffic=true parametresini ve <uses-permission android:name=android.permission.INTERNET /> iznini eklemen gerekiyor. Haber detayı webview widgetının içinde açılmıyor (appbar vs yok). Geliştirici sayfası yok"
+  },
+  {
+    "id": 8,
+    "name": "Emi** Dem*****",
+    "total": 59,
+    "description": "Uygulamanın ikonu yok"
+  },
+  {
+    "id": 26,
+    "name": "Ene* Çak***",
+    "total": 57,
+    "description": "Splashta user kontrolü yapılmamış"
+  },
+  {
+    "id": 15,
+    "name": "Ens** Emi* Ero*",
+    "total": 108,
+    "description": "Anadolu ajansı seçilince resimler yüklenmiyor"
+  },
+  {
+    "id": 3,
+    "name": "Fur*** Kur*",
+    "total": 83,
+    "description": "Haber detay webview da açılmıyor."
+  },
+  {
+    "id": 10,
+    "name": "Hat*** N** Nal****",
+    "total": 43,
+    "description": "Splashta user kontrolü yapılmamış. Çıkış yap özelliği yok. Arama özelliği çalışmıyor. Geliştirici ve lisanlar sayfası yok. Haber detayı webview'ın içinde açılmıyor."
+  },
+  {
+    "id": 14,
+    "name": "Haş*** Olc**",
+    "total": 94,
+    "description": "Registerda pushReplacement else koşulunun içinde kalmış onu çıkartırsan düzgün çalışır. Geliştirici sayfasında resim koymamışsın"
+  },
+  {
+    "id": 22,
+    "name": "Hüs**** Mur** Gez**",
+    "total": 7,
+    "description": "Uygulamayı yapmadan göndermişsin."
+  },
+  {
+    "id": 7,
+    "name": "İdr** C** Böl******",
+    "total": 106,
+    "description": "Haberlerin resimi yüklenene kadar bir placeholder gösterilebilir (shimmer efekt vs kullanırsan resim yüklenince widget birden büyümemiş olur ve güzel gözükür). Haber detayı webview widgetının içinde açılmıyor (appbar vs yok yani)."
+  },
+  {
+    "id": 24,
+    "name": "Meh*** A** Ust*****",
+    "total": 95,
+    "description": "Geliştirici sayfasını yapmamışsın"
+  },
+  {
+    "id": 5,
+    "name": "Mel*** Aky**",
+    "total": 14,
+    "description": "Giriş yap butonu çalışmıyor. Çıkış yap sadece yönlendirme yapıyor. Haberler gelmiyor. Hiçbir özellik çalışmıyor."
+  },
+  {
+    "id": 6,
+    "name": "Mel*** Yer**",
+    "total": 76,
+    "description": "Login veya register işlemi yapıldıktan sonra pushReplacement yapılmamış. Ana ekranda appbardaki textfield sürekli aktif"
+  },
+  {
+    "id": 19,
+    "name": "Mus**** Aki*",
+    "total": 71,
+    "description": "Splash screen ve  user kontrolü yapılmamış. Login veya register işlemi yapıldıktan sonra pushReplacement yapılmamış. Arama fonksiyonu çalışıyor ama geri dönüş mekanizması sıkıntılı. Geliştirici sayfasında resim yok. Webview'da appbar başlığı boş (haberin başlığı olmalıydı)."
+  },
+  {
+    "id": 21,
+    "name": "Nad***** Alk**",
+    "total": 57,
+    "description": "Splash screen ve  user kontrolü yapılmamış. Arama fonksiyonu çalışmıyor. Webviewda paylaşma butonuna basınca haber linki gitmiyor. Haberler ekranındaki solda drawer kötü olmuş"
+  },
+  {
+    "id": 27,
+    "name": "Naf* Dur***",
+    "total": 67,
+    "description": "Splash screen ve  user kontrolü yapılmamış. Login veya register işlemi yapıldıktan sonra pushReplacement yapılmamış. Arama fonksiyonu çalımıyor. Geliştirici sayfasında resim yok. "
+  },
+  {
+    "id": 20,
+    "name": "Nih** Kar*****",
+    "total": 100,
+    "description": "Loginde password textformfield'ine obscureText:true yapmamışsın"
+  },
+  {
+    "id": 25,
+    "name": "Nur***** Sel** Özy*****",
+    "total": 110,
+    "description": "Geliştirici sayfasını yapmamışsın"
+  },
+  {
+    "id": 13,
+    "name": "Osm** Nur* Yıl***",
+    "total": 102,
+    "description": "Loginde yaptığın user kontrolünü splash screende yapsaydın daha iyi olurdu. Onun dışında eline sağlık güzel olmuş"
+  },
+  {
+    "id": 11,
+    "name": "Rab** Oka***",
+    "total": 68,
+    "description": "Haberleri yenileme yok. Haber detayda appbar başlığı haberin adı değil. Arama yapma özelliği yok. Geliştirici sayfasında resim yok."
+  },
+  {
+    "id": 17,
+    "name": "Rec** Baş****",
+    "total": 96,
+    "description": "Haber kaynaklarını eklemişsin ama anadolu ajansı harici birine bastığımda çalışmıyor. Arama yaparken listedeki ilk iki elemanın içinde geçen bir metni aratırsan haber iki kere gözüküyor. Geliştirici sayfasında resim ve sosyal medya hesaplarının olması gerekiyordu onları eklememişsin"
+  },
+  {
+    "id": 28,
+    "name": "Sül***** Ahm** Sön***",
+    "total": 87,
+    "description": "Login veya register işlemi yapıldıktan sonra pushReplacement yapılmamış. Arama fonksiyonu tam randımanlı çalışmıyor."
+  },
+  {
+    "id": 4,
+    "name": "Sıl* Tür** Erd****",
+    "total": 57,
+    "description": "Auth kontrolü yok. Mail ve Çıkış yap dışında bir şey eklenmemiş. Uygulamada çok fazla bug var. Webview kütüphanesi eski."
+  },
+  {
+    "id": 9,
+    "name": "Tuğ** Öza****",
+    "total": 53,
+    "description": "Google ve email ile giriş yapma çalışmıyor. Splashta user kontrolu yok. Haberler ekranı 2 kere çağırılıyor"
+  },
+  {
+    "id": 29,
+    "name": "Yah** Özt****",
+    "total": 39,
+    "description": "FirebaseAuth kullanarak login ve register yapılmamış"
+  },
+  {
+    "id": 16,
+    "name": "Yas** Rei*****",
+    "total": 100,
+    "description": "Eline sağlık güzel bir uygulama olmuş. Geliştirici sayfasında resim ve sosyal medya hesaplarının olması gerekiyordu onları eklememişsin"
+  },
+  {
+    "id": 2,
+    "name": "Yun** Emr* Çet*******",
+    "total": 128,
+    "description": "Karanlık temada patlayan textler var"
+  }
+]

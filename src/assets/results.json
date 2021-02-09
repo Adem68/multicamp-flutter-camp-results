@@ -48,7 +48,7 @@
     "bonus": 2,
     "name": "Bur** Akt**",
     "total": 109,
-    "description": "Genel olarak uygulaman güzel olmuş"
+    "description": "Genel olarak uygulaman güzel olmuş ellerine sağlık. Haberler ekranında kartlar biraz daha güzel olabilir (yazıları büyütüyüp ortalayabilirsin). Geliştirici hakkında sayfasında kendi ismini eklememişsin."
   },
   {
     "id": 23,
@@ -99,7 +99,7 @@
     "bonus": 0,
     "name": "Dav** Ars***",
     "total": 25,
-    "description": "Öncelikle projenin içinde package:test_test kalmış bunları package:multicamp_news_app olarak değiştirmen gerekiyor yoksa uygulama derlenmez. Kullandığın api http bu yüzden AndroidManifest.xml dosyasında application'un altında android:usesCleartextTraffic=true parametresini ve <uses-permission android:name=android.permission.INTERNET />  iznini eklemen gerekiyor. Splash'ı native olarak eklemişsin"
+    "description": "Öncelikle projenin içinde package:test_test kalmış bunları package:multicamp_news_app olarak değiştirmen gerekiyor yoksa uygulama derlenmez. Kullandığın api http bu yüzden AndroidManifest.xml dosyasında application'un altında android:usesCleartextTraffic=true parametresini ve <uses-permission android:name=android.permission.INTERNET />  iznini eklemen gerekiyor. Splash'ı native olarak eklemişsin. Uygulamaya firebaseauth eklememişsin."
   },
   {
     "id": 8,
@@ -116,7 +116,7 @@
     "bonus": 0,
     "name": "Emi** Dem*****",
     "total": 59,
-    "description": "Uygulamanın ikonu yok"
+    "description": "Uygulamanın ikonu yok ve pushReplacement yapılmamış. Arama özelliği çalışmıyor. Kullandığın api http bu yüzden AndroidManifest.xml dosyasında application'un altında android:usesCleartextTraffic=true parametresini ve <uses-permission android:name=android.permission.INTERNET /> iznini eklemen gerekiyor. Webview uygulama içinde açılmıyor. Geliştirici sayfası yok"
   },
   {
     "id": 26,
@@ -133,7 +133,7 @@
     "bonus": 0,
     "name": "Ene* Çak***",
     "total": 57,
-    "description": "Splashta user kontrolü yapılmamış"
+    "description": "Splashta user kontrolü yapılmamış ve pushReplacement yapılmamış. Arama özelliği çalışmıyor. Geliştirici ve lisans sayfası yok. Webview ekranında appbar başlığı haberin adı olacak"
   },
   {
     "id": 15,
@@ -150,7 +150,7 @@
     "bonus": 0,
     "name": "Ens** Emi* Ero*",
     "total": 108,
-    "description": "Anadolu ajansı seçilince resimler yüklenmiyor"
+    "description": "Anadolu ajansı seçilince resimler yüklenmiyor. Eline sağlık güzel bir uygulama olmuş. Geliştirici hakkında sayfası yok. Webview'da appbar başlığı boş (haberin başlığı olmalıydı)."
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@
     "bonus": 0,
     "name": "Meh*** A** Ust*****",
     "total": 95,
-    "description": "Geliştirici sayfasını yapmamışsın"
+    "description": "Geliştirici sayfasını yapmamışsın. Onun dışında eline sağlık"
   },
   {
     "id": 5,
@@ -303,7 +303,7 @@
     "bonus": 0,
     "name": "Mel*** Yer**",
     "total": 76,
-    "description": "Login veya register işlemi yapıldıktan sonra pushReplacement yapılmamış. Ana ekranda appbardaki textfield sürekli aktif"
+    "description": "Login veya register işlemi yapıldıktan sonra pushReplacement yapılmamış. Ana ekranda appbardaki textfield sürekli aktif oluyor unfocus olamıyoruz. Haber detayda appbar title boş geliyor. Arama kısmında bir şey girip klavyeden gönder tuşuna basınca arama otomatik olarak yapılmıyor."
   },
   {
     "id": 19,
@@ -337,7 +337,7 @@
     "bonus": 0,
     "name": "Nad***** Alk**",
     "total": 57,
-    "description": "Splash screen ve  user kontrolü yapılmamış. Arama fonksiyonu çalışmıyor. Webviewda paylaşma butonuna basınca haber linki gitmiyor. Haberler ekranındaki solda drawer kötü olmuş"
+    "description": "Splash screen ve  user kontrolü yapılmamış. Arama fonksiyonu çalışmıyor. Webviewda paylaşma butonuna basınca haber linki gitmiyor. Haberler ekranındaki solda drawer kötü olmuş. İnternetteki örneklere bakarak daha güzel yapabilirdin sanki."
   },
   {
     "id": 27,
@@ -371,7 +371,7 @@
     "bonus": 0,
     "name": "Nih** Kar*****",
     "total": 100,
-    "description": "Loginde password textformfield'ine obscureText:true yapmamışsın"
+    "description": "Loginde password textformfield'ine obscureText:true yapmamışsın. Geliştirici hakkında kısmına resim koymamışsın. Eline sağlık güzel bir uygulama olmuş"
   },
   {
     "id": 25,
@@ -388,7 +388,7 @@
     "bonus": 0,
     "name": "Nur***** Sel** Özy*****",
     "total": 110,
-    "description": "Geliştirici sayfasını yapmamışsın"
+    "description": "Geliştirici sayfasını yapmamışsın. Onun dışında eline sağlık"
   },
   {
     "id": 13,
@@ -524,7 +524,7 @@
     "bonus": 0,
     "name": "Tuğ** Öza****",
     "total": 53,
-    "description": "Google ve email ile giriş yapma çalışmıyor. Splashta user kontrolu yok. Haberler ekranı 2 kere çağırılıyor"
+    "description": "Google ve email ile giriş yapma çalışmıyor. Splashta user kontrolu yok. Haberler ekranı 2 kere çağırılıyor. Ayrıca singlechildscrollview düzgün çalışmıyor. Haber detayda başlık haber başlığı değil. Arama fonksiyonu çalışmıyor. Geliştirici sayfası yok"
   },
   {
     "id": 29,
@@ -541,7 +541,7 @@
     "bonus": 0,
     "name": "Yah** Özt****",
     "total": 39,
-    "description": "FirebaseAuth kullanarak login ve register yapılmamış"
+    "description": "FirebaseAuth kullanarak login ve register yapılmamış. Haber arama yok. Geliştirici sayfası yok (resim ve butonların olduğu). Webview ekranında appbar başlığı haberin adı olacak."
   },
   {
     "id": 16,
@@ -575,6 +575,6 @@
     "bonus": 2,
     "name": "Yun** Emr* Çet*******",
     "total": 128,
-    "description": "Karanlık temada patlayan textler var"
+    "description": "Karanlık temada patlayan textler var. Ayarlar ekranına her girince dil değişiyor. Onun dışında eline sağlık çok güzel olmuş"
   }
 ]

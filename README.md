@@ -1,4 +1,6 @@
-# multicamp-flutter-results
+# Multicamp Flutter Camp Results
+
+### Stack : Vue.js + Chakra UI
 
 ## Project setup
 ```
